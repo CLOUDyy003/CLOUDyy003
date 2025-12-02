@@ -16,7 +16,7 @@
 - **Languages:** Java, SQL, HTML/CSS, JavaScript (basics)  
 - **Backend & Frameworks:** Spring Boot, Spring Data JPA, Servlets/JSP  
 - **Databases:** PostgreSQL, MySQL  
-- **Tools & Platforms:** Git, GitHub, Maven, IntelliJ IDEA / VS Code  
+- **Tools & Platforms:** Git, GitHub, Maven, IntelliJ IDEA / Eclipse  
 
 ---
 
